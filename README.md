@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there, I'm Eugene (Zhenya for my Slavic homies) ✌️
 
-<!--
-**EugeneShchoka/EugeneShchoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Scientist in biology with expertise in genomics and transcriptomics data analysis, statistics, and Machine Learning techniques.
 
-Here are some ideas to get you started:
+## 🌐 Contact  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="14"> **Email**: [shchoka.eugene@gmail.com](mailto:shchoka.eugene@gmail.com)  
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="14"> **LinkedIn**: [linkedin.com/in/eugene-shchoka/](https://www.linkedin.com/in/eugene-shchoka/)  
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="14"> **Telegram**: [Eugene Shchoka](https://t.me/EugShchoka)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me  
+🔬 Worked at [Genomize](https://genomize.com/) and [the Shemyakin and Ovchinnikov Institute of Bioorganic Chemistry](https://www.ibch.ru/en/about) as a Bioinformatician.  
+📝 1st author of an article: ["FCRL4 and exhausted B cell signature in tumor infiltrating B cells from lung cancer"](https://www.biorxiv.org/content/10.1101/2024.11.29.626090v1).  
+🎓 MSc in Applied Bioinformatics + BSc in Chemical Technology.  
+📚 6 years of teaching experience.  
+
+## 📗 Projects 
+* [Comparative transcriptome analysis of B lymphocyte populations infiltrating tumors and expressing IgA and IgG](https://github.com/EugeneShchoka/Transcriptomics-Tumor-infiltrating-MemoryBCells): The research explores the role of tumor-infiltrating FCRL4-expressing memory B cells with an exhausted phenotype in the progression of Lung Adenocarcinoma (LUAD) and Kidney Renal Clear Cell Carcinoma (KIRC), identifying their potential as a prognostic factor in LUAD.
+
+## 📕 Learning Projects
+* [VCF Metrics Calculator](https://github.com/EugeneShchoka/Vcf-metrics-calculator): This Python script processes a Variant Call Format (VCF) file to calculate metrics, update the VCF with additional information, and generate a JSON summary of the metrics.
+* [Human T Cell Profile](https://github.com/EugeneShchoka/FlowCytometry-TCellProfile): The Human T Cell Profile project processes flow cytometry data to identify and classify human T cell populations using dimensionality reduction, clustering, and machine learning, with scripts and pipelines for data preprocessing, model evaluation, and result generation.
