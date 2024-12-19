@@ -1,4 +1,4 @@
-## Hi there, I'm Eugene (Zhenya for my Slavic homies) ✌️
+## Hi there, I'm Eugene ✌️
 
 I'm a Data Scientist in biology with expertise in genomics and transcriptomics data analysis, statistics, and Machine Learning techniques.
 
@@ -14,6 +14,7 @@ I'm a Data Scientist in biology with expertise in genomics and transcriptomics d
 📚 6 years of teaching experience.  
 
 ## 📗 Projects 
+* [Pathogenicity Benchmark and Visualization](https://github.com/EugeneShchoka/Bechmarking): Tools for analyzing and visualizing pathogenicity predictions from variant classification platforms. It compares predictions from Genomize-Seq and Competitor tools against ClinGen's curated truthset using metrics like F1, precision, and recall. Key features include Sankey diagrams and radar charts for intuitive data representation.
 * [Comparative transcriptome analysis of B lymphocyte populations infiltrating tumors and expressing IgA and IgG](https://github.com/EugeneShchoka/Transcriptomics-Tumor-infiltrating-MemoryBCells): The research explores the role of tumor-infiltrating FCRL4-expressing memory B cells with an exhausted phenotype in the progression of Lung Adenocarcinoma (LUAD) and Kidney Renal Clear Cell Carcinoma (KIRC), identifying their potential as a prognostic factor in LUAD.
 
 ## 📕 Learning Projects
